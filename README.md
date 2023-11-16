@@ -8,7 +8,7 @@ The purpose of this project was to help me quickly learn to work with cloud data
 
 Here is a demonstration of the program running:
 
-[Software Demo Video]((https://youtu.be/8vU5_49Xyh0))
+[Software Demo Video](https://youtu.be/8vU5_49Xyh0)
 
 # Cloud Database
 
